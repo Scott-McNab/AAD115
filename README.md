@@ -16,4 +16,4 @@ John Baskerville
 Essay
 ------------
 
-  * [Wolfgang Weingart](http://scott-mcnab.github.io/AAD115/index.html)
+  * [Wolfgang Weingart](http://scott-mcnab.github.io/essay/index.html)
